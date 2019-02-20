@@ -5,6 +5,7 @@ from ihome import create_app
 
 
 # 创建应用
+# 加的东西啊
 app = create_app("dev")
 # 创建管理器
 mgr = Manager(app)
